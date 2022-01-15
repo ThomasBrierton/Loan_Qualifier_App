@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Loan Qualifier Application.
 
 This is a command line application to match applicants with qualifying loans.
@@ -6,6 +5,8 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+
+# The following script imports the required paths, files, filters, and tools
 import sys
 import fire
 import questionary
@@ -24,7 +25,7 @@ from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
 
-
+#The following script utilizes the questionary function to gather information from the user
 def load_bank_data():
     """Ask for the file path to the latest banking data and load the CSV file.
 
@@ -61,7 +62,7 @@ def get_applicant_info():
 
     return credit_score, debt, income, loan_amount, home_value
 
-
+#The following script takes the user's input and determines which loans the user qualifies for
 def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_value):
     """Determine which loans the user qualifies for.
 
@@ -110,6 +111,8 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
+
+    #The following script creates a header for the CSV file with the input inserted into []
     header = ["Lender", "Max Loan Amount", "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate"]
 
     #Ask user if they want to save qualifying loans to a CSV file
@@ -128,7 +131,7 @@ def save_qualifying_loans(qualifying_loans):
     else:
         print("Your list of qualifying loans was not saved.")
 
-#Run the program
+
 def run():
     """The main function for running the script."""
 
@@ -146,6 +149,6 @@ def run():
     # Save qualifying loans
     save_qualifying_loans(qualifying_loans)
 
-
+#The following script runs the program utilizing Python Fire
 if __name__ == "__main__":
     fire.Fire(run)
