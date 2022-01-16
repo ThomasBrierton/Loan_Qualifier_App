@@ -1,0 +1,995 @@
+   50  cd Module_1_Activities
+   51  cd desktop
+   52  cd fintech-workspace
+   53  ls
+   54  cd Module_2_Activities
+   55  cd Module_1_Activities
+   56  cd ..
+   57  ls
+   58  cd 02_Loan_Qualifier_Filtering_Data
+   59  ls
+   60  cd unsolved
+   61  ls
+   62  ls
+   63  cd unsolved
+   64  conda activate dev
+   65  ls
+   66  python app.py
+   67  python app.py
+   68  python app.py
+   69  cd ..
+   70  cd ..
+   71  code .
+   72  ls
+   73  cd module_1_activities
+   74  cd ..
+   75  cd Module_2_activites
+   76  cd Module_2_Activities
+   77  code .
+   78  ls
+   79  cd 02_Loan_Qualifier_Filtering_Data
+   80  conda activate dev
+   81  ls
+   82  cd unsolved
+   83  ls
+   84  python app.py
+   85  ls
+   86  code .
+   87  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_1_Class_Activities /Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+   88  code .
+   89  cd ..
+   90  ls
+   91  cd Module_1_Class_Activities
+   92  ls
+   93  conda activate dev
+   94  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_1_Class_Activities /Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+   95  cd Module_1_Class_Activities
+   96  cd /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_1_Class_Activities /Class_2_Activities/01_Stu_Variables/Unsolved
+   97  cd desktop
+   98  cd /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_1_Class_Activities /Class_2_Activities/01_Stu_Variables/Unsolved
+   99  /Users/thomasbrierton/Desktop/Fintech-Workspace/Python_Project/test.py 
+  100  ls
+  101  cd /Users/thomasbrierton/Desktop/Fintech-Workspace/Python_Project
+  102  ls
+  103  conda activate dev
+  104  python test.py
+  105  python test.py
+  106  python test.py
+  107  python test.py
+  108  python test.py
+  109  python test.py
+  110  python test.py
+  111  python test.py
+  112  python test.py
+  113  python test.py
+  114  python test.py
+  115  python test.py
+  116  python test.py
+  117  python test.py
+  118  python test.py
+  119  python test.py
+  120  python test.py
+  121  python test.py
+  122  python test.py
+  123  python test.py
+  124  python test.py
+  125  python test.py
+  126  python test.py
+  127  python test.py
+  128  python test.py
+  129  python test.py
+  130  python test.py
+  131  python test.py
+  132  python test.py
+  133  python test.py
+  134  python test.py
+  135  python test.py
+  136  python test.py
+  137  python test.py
+  138  python test.py
+  139  cd desktop
+  140  cd fintech-workspace
+  141  ls
+  142  cd Module_2_Activities
+  143  ls
+  144  code .
+  145  conda activate dev
+  146  cd desktop
+  147  ls
+  148  cd fintech-workspace
+  149  ls
+  150  cd Python_Project
+  151  ls
+  152  python test.py
+  153  python test.py
+  154  python test.py
+  155  python test.py
+  156  python test.py
+  157  python test.py
+  158  python test.py
+  159  python test.py
+  160  python test.py
+  161  python test.py
+  162  ls
+  163  cd Module_2_Activities
+  164  ls
+  165  cd 04_Modularize_Your_Loan_Qualifier_Application_Part_2
+  166  ls
+  167  cd unsolved
+  168  ls
+  169  conda activate dev
+  170  python app.py
+  171  cd desktop
+  172  conda activate dev
+  173  python loan_analyzer.py
+  174  python loan_analyzer.py
+  175  python loan_analyzer.py
+  176  python loan_analyzer.py
+  177  python loan_analyzer.py
+  178  conda activate dev
+  179  cd desktop
+  180  python loan_analyzer.py
+  181  python loan_analyzer.py
+  182  python loan_analyzer.py
+  183  python loan_analyzer.py
+  184  python loan_analyzer.py
+  185  python loan_analyzer.py
+  186  python loan_analyzer.py
+  187  python loan_analyzer.py
+  188  python loan_analyzer.py
+  189  python loan_analyzer.py
+  190  python loan_analyzer.py
+  191  python loan_analyzer.py
+  192  python loan_analyzer.py
+  193  python loan_analyzer.py
+  194  python loan_analyzer.py
+  195  python loan_analyzer.py
+  196  python loan_analyzer.py
+  197  cd desktop
+  198  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  199  git pull
+  200  cd desktop
+  201  ls
+  202  cd desktop
+  203  ls
+  204  cd UCB-VIRT-FIN-PT-12-2021-U-B\n
+  205  git pull
+  206  cd desktop
+  207  conda activate dev
+  208  python loan_analyzer.py
+  209  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  210  conda activate dev
+  211  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  212  conda activate dev
+  213  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  214  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  215  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  216  conda activate dev
+  217  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  218  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  219  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  220  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  221  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  222  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  223  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  224  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  225  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  226  conda activate dev
+  227  python /Users/thomasbrierton/Desktop/Starter_Code/loan_analyzer.py
+  228  python /Users/thomasbrierton/Desktop/Loan_Analyzer/loan_analyzer.py
+  229  code .
+  230  conda activate dev
+  231  ls
+  232  python loan_analyzer.py
+  233  cd loan_analyzer
+  234  ls
+  235  python loan_analyzer.py
+  236  python loan_analyzer.py
+  237  python loan_analyzer.py
+  238  python loan_analyzer.py
+  239  python loan_analyzer.py
+  240  cd desktop
+  241  ls
+  242  cd GitHub_Upload
+  243  ls
+  244  cd Loan_Analyzer
+  245  ls
+  246  conda activate dev
+  247  python loan_analyzer.py
+  248  ls
+  249  git status
+  250  conda actiate dev
+  251  conda activate dev
+  252  git status
+  253  git status
+  254  git status
+  255  cd desktop
+  256  ls
+  257  cd GitHub_Upload
+  258  ls
+  259  cd Loan_Analyzer
+  260  git status
+  261  .git
+  262    git config --global user.email "you@example.com"\n
+  263  git -- version
+  264  git status
+  265  git status
+  266  git remote add origin https://github.com/ThomasBrierton/loan_analyzer.git
+  267  ls
+  268  conda activate dev
+  269  python loan_analyzer.py
+  270  pwd
+  271  cd fintech-workspace
+  272  cd Fintech-Workspace
+  273  cd desktop
+  274  cd fintech-workspace
+  275  ls
+  276  mkdir test_folder
+  277  ls
+  278  cd test_folder
+  279  touch fintech-file.txt
+  280  ls
+  281  rm fintech-file.txt
+  282  ls
+  283  cd ..
+  284  rm -r
+  285  ls
+  286  rm -r test_folder
+  287  ls
+  288  pip install fire
+  289  cd desktop
+  290  cd fintech-workspace
+  291  ls
+  292  conda activate dev
+  293  python cli.py
+  294  cd desktop
+  295  cd fintech-workspace
+  296  ls
+  297  conda activate dev
+  298  python cli.py
+  299  ls
+  300  python cli.py
+  301  python cli.py
+  302  pip install fire
+  303  pip install fire install fire
+  304  cd desktop
+  305  cd fintech-workspace
+  306  conda activate dev
+  307  python cli.py
+  308  pyton cli.py
+  309  python cli.py
+  310  pip install fire
+  311  conda activate dev
+  312  cd desktop
+  313  cd fintech-workspace
+  314  python cli.py
+  315  pip install fire install fire
+  316  python cli.py
+  317  pyton cli.py
+  318  python cli.py
+  319  pip install fire
+  320  python cli.py
+  321  python cli.py
+  322  python cli.py
+  323  pip3 install fire
+  324  upgrade pip
+  325  install --upgrade pip
+  326  python cli.py
+  327  type python
+  328  type fire
+  329  pip install fire
+  330  python cli.py
+  331  python cli.py
+  332  type python
+  333  type pip 3
+  334  install pip3 fire
+  335  pip3 install fire
+  336  conda activate dev
+  337  cd desktop
+  338  cd fintech-workspace
+  339  ls
+  340  python cli.py
+  341  python cli.py
+  342  conda activate dev
+  343  pip install fire
+  344  cd desktop
+  345  cd desktop
+  346  cd fintech-workspace
+  347  ls
+  348  cd ..
+  349  ls
+  350  cd github_upload
+  351  ls
+  352  conda activate dev
+  353  cd loan_analyzer
+  354  ls
+  355  python loan_analyzer.py
+  356  conda activate dev
+  357  cd desktop
+  358  cd fintech-workspace
+  359  ls
+  360  python testtest.py
+  361  python3 testtest.py
+  362  python3 cli.py
+  363  cd desktop
+  364  cd fintech-workspace
+  365  ls
+  366  conda activate dev
+  367  python3 cli.py
+  368  pyhton cli.py
+  369  python cli.py
+  370  python3 testtest.py
+  371  ls
+  372  cd solved
+  373  ls
+  374  conda activate dev
+  375  ls
+  376  python app.py
+  377  python app.py --credit_score=750
+  378  cd ..
+  379  ls
+  380  cd unsolved
+  381  ls
+  382  python app.py
+  383  python app.py
+  384  python app.py --credit_score=750
+  385  python app.py --credit_score=450
+  386  python app.py --credit_score=750 --ddebt=750 --income=50000
+  387  python app.py --credit_score=750 --debt=3000 --income=50000
+  388  pip install questionary
+  389  cd desktop
+  390  cd fintech-workspace
+  391  ls
+  392  conda activate dev
+  393  ls
+  394  python dialog.py
+  395  python dialog.py
+  396  python dialog.py
+  397  python dialog.py
+  398  python dialog.py
+  399  conda activate dev
+  400  cd unsolved
+  401  python app.py --credit_score=750 --debt=5000 --income=20000
+  402  python app.py --credit_score=750 --debt=5000 --income=20000
+  403  python app.py
+  404  python app.py
+  405  python app.py --credit_score=750 --debt=5000 --income=20000
+  406  cd ..
+  407  cd solved
+  408  ls
+  409  python app.py
+  410  cd ..
+  411  cd unsolved
+  412  ls
+  413  python app.py
+  414  git config
+  415  git config --global user.name <Thomas Brierton>
+  416  git config --global user.nam <Thomas Brierton>
+  417  git config --global user.email <tbrierton@gmail.com>
+  418  git config --list
+  419  git config --global user.name Thomas Brierton
+  420  git config --global user.email tbrierton@gmail.com
+  421  git config --list
+  422  git config --global user.name Thomas_Brierton
+  423  git config --list
+  424  cd desktop
+  425  git clone https://github.com/ThomasBrierton/test.git
+  426  git clone https://github.com/ThomasBrierton/test.git
+  427  cd test
+  428  git status
+  429  git add README.md
+  430  git status
+  431  touch new_file.txt
+  432  ls
+  433  git status
+  434  git add new_file.txt
+  435  git status
+  436  git commit -m "Edited readme.md and added text file"
+  437  git status
+  438  git push
+  439  cd desktop
+  440  cd fintech-workspace
+  441  cd module_2_challenge
+  442  ls
+  443  cd starter_code
+  444  lz
+  445  ls
+  446  ls
+  447  code .
+  448  conda activate dev
+  449  conda list pandas
+  450  conda list jupyterlab
+  451  conda activate dev
+  452  python - m ipykernel install --user --name dev --display-name "Python (dev)"
+  453  conda activate dev
+  454  jupyter lab
+  455  conda deactivate
+  456  conda activate dev
+  457  conda install -c conda-forge nodejs
+  458  conda activate dev
+  459  jupyter lab
+  460  conda activate dev
+  461  jupyter lab --debug
+  462  conda activate dev
+  463  jupyter lab
+  464  conda activate dev
+  465  jupyter lab
+  466  conda activate dev
+  467  jupyter lab
+  468  conda activate dev
+  469  node -v
+  470  npm -v
+  471  conda install -c conda-forge nodejs
+  472  conda activate dev
+  473  jupyter lab
+  474  node -version
+  475  conda actrivate dev
+  476  conda activate dev
+  477  node --version
+  478  npm install -g npm@latest
+  479  npm version
+  480  npm --version
+  481  npm --version
+  482  conda activate dev
+  483  jupyter lab
+  484  node --version
+  485  conda activate dev
+  486  node --version
+  487  npm --version
+  488  conda activate dev
+  489  npm --version
+  490  conda install nodejs
+  491  node --version
+  492  conda activate dev
+  493  jupyter lab
+  494  conda activate dev
+  495  node --version
+  496  conda deactivate
+  497  node --version
+  498  conda activate node
+  499  conda activate dev
+  500  conda install nodejs
+  501  jupyter lab
+  502  node --version
+  503  conda activate dev
+  504  node --version
+  505  node --version
+  506  cd desktop
+  507  ls
+  508  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  509  ls
+  510  jupyter lab
+  511  jupyter lab
+  512  cd desktop/UCB-VIRT-FIN-PT-12-2021-U-B
+  513  jupyter lab
+  514  cd desktop/UCB-VIRT-FIN-PT-12-2021-U-B
+  515  jupyter lab
+  516  conda activate dev
+  517  jupyter lab
+  518  pip install nodejs
+  519  jupyter lab
+  520  cd /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/06_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  521  conda activate dev
+  522  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/06_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  523  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/06_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  524  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/06_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  525  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/06_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  526  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/05_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  527  conda activate dev
+  528  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/05_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  529  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/05_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  530  python /Users/thomasbrierton/Desktop/Fintech-Workspace/Module_2_Activities/05_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  531  python app.py --credit_score=750 --debt=5000 --income=20000
+  532  cd ..
+  533  cd desktop
+  534  cd fintech-workspace
+  535  ls
+  536  cd desktop
+  537  cd ..
+  538  cd ..
+  539  cd desktop
+  540  cd desktop
+  541  cd fintech-workspace
+  542  ls
+  543  cd Module_2_Activities
+  544  ls
+  545  05_Adding_Fire_to_the_Loan_Qualifier_App
+  546  cd 05_Adding_Fire_to_the_Loan_Qualifier_App
+  547  ls
+  548  cd solved
+  549  conda activate dev
+  550  ls
+  551  python app.py --credit_score=750 --debt=5000 --income=20000
+  552  python app.py --credit_score=750 --debt=5000 --income=20000
+  553  git config --list
+  554  cd desktop
+  555  cd fintech-workspace
+  556  ls
+  557  cd Module_3_Activities
+  558  conda activate dev
+  559  jupyter lab
+  560  cd desktop
+  561  cd fintech-workspace
+  562  ls
+  563  cd Module_3_Activities
+  564  conda activate dev
+  565  jupyter lab
+  566  cd desktop
+  567  cd fintech-workspace
+  568  ls
+  569  cd Module_3_Activities
+  570  conda activate dev
+  571  jupyter lab
+  572  cd desktop
+  573  cd fintech-workspace
+  574  ls
+  575  cd Module_3_Activities
+  576  conda activate dev
+  577  jupyter lab
+  578  cd desktop
+  579  cd fintech-workspace
+  580  ls
+  581  cd Module_3_Activities
+  582  conda activate dev
+  583  jupyter lab
+  584  conda activate dev
+  585  pip install fire
+  586  git checkout dev
+  587  conda activate dev
+  588  git checkout dev
+  589  git init
+  590  git checkout -b develop
+  591  conda activate dev
+  592  code .
+  593  git init
+  594  code .
+  595  cd desktop
+  596  cd fintech-workspace
+  597  ls
+  598  cd Module_3_Activities
+  599  conda activate dev
+  600  jupyter lab
+  601  conda activate dev
+  602  pip uninstall jupyter
+  603  pip install jupyter
+  604  cd desktop
+  605  cd fintech-workspace
+  606  ls
+  607  cd Module_3_Activities
+  608  conda activate dev
+  609  jupyter lab
+  610  conda activate dev
+  611  pip uninstall ipykernel
+  612  pip install ipykernel
+  613  cd desktop
+  614  cd fintech-workspace
+  615  ls
+  616  cd Module_3_Activities
+  617  jupyter lab
+  618  conda activate dev
+  619  pip uninstall ipython
+  620  pip install ipython
+  621  pip install pyqt5<5.13
+  622  pip install pyqt5
+  623  pip install pyqtwebengine
+  624  conda activate dev
+  625  cd desktop
+  626  cd fintech-workspace
+  627  ls
+  628  cd Module_3_Activities
+  629  jupyter lab
+  630  cd desktop
+  631  ls
+  632  cd 02_Fix_Column_Headers
+  633  conda activate dev
+  634  jupyter lab
+  635  cd desktop
+  636  cd fintech-workspace
+  637  ls
+  638  cd Module_3_Activities
+  639  ls
+  640  conda activate dev
+  641  jupyter lab
+  642  cd desktop
+  643  conda activate dev
+  644  jupyter lab
+  645  conda activate dev
+  646  jupyter lab
+  647  conda activate dev 
+  648  pip3 freeze
+  649  conda activate dev
+  650  pip freeze
+  651  pip3 freeze
+  652  pip3 install pandas
+  653  conda activate dev
+  654  pip3 install pands
+  655  pip3 install pands
+  656  pip3 install pandas
+  657  pip3 freeze
+  658  pip3 uninstall pandas
+  659  pip3 install pandas
+  660  pip3 uninstall pathlib
+  661  pip3 install pathlib
+  662  conda activate dev
+  663  pip3 install pathlib
+  664  conda activate dev
+  665  cd desktop
+  666  cd fintech-workspace
+  667  ls
+  668  cd Module_3_Activities
+  669  jupyter lab
+  670  conda activate dev
+  671  pip3 freeze
+  672  pip freeze
+  673  pip uninstall pandas
+  674  pip install pandas
+  675  cd desktop
+  676  cd fintech-workspace
+  677  ls
+  678  cd Module_3_Activities
+  679  conda activate dev
+  680  jupyter lab
+  681  cd desktop
+  682  ls
+  683  conda activate dev
+  684  jupyter lab
+  685  conda activate dec
+  686  conda activate dev
+  687  cd desktop
+  688  conda activate dev
+  689  jupyter lab
+  690  cd desktop
+  691  ls
+  692  cd 01_Importing_the_VIX
+  693  conda activate dev
+  694  jupyter lab
+  695  conda activate dev
+  696  cd desktop
+  697  ls
+  698  cd 01_Importing_the_VIX
+  699  jupyter lab
+  700  cd desktop
+  701  conda activate dev
+  702  ls
+  703  cd 01_Importing_the_VIX
+  704  jupyter lab
+  705  conda activate dev
+  706  jupyter trust notebook-name.ipynb\n
+  707  cd desktop
+  708  jupyter trust notebook-name.ipynb\n
+  709  ls
+  710  cd 01_Importing_the_VIX
+  711  ls
+  712  cd solved
+  713  ls
+  714  jupyter trust Importing_the_VIX.ipynb
+  715  jupyter lab
+  716  conda activate dev
+  717  cd desktop
+  718  ls
+  719  cd 01_Importing_the_VIX
+  720  jupyter lab
+  721  cd desktop
+  722  conda activate dev
+  723  ls
+  724  cd 01_Importing_the_VIX
+  725  jupyter lab
+  726  cd desktop
+  727  ls
+  728  cd 01_Importing_the_VIX
+  729  conda activate dev
+  730  jupyter lab
+  731  cd desktop
+  732  ls
+  733  cd 01_Importing_the_VIX
+  734  conda activate dev
+  735  jupyter lab
+  736  cd desktop
+  737  ls
+  738  cd 01_Import_Data
+  739  conda activate dev
+  740  jupyter lab
+  741  python --version
+  742  which python
+  743  python -m pip install ipykernel
+  744  python -m ipykernel install --user
+  745  python --version
+  746  cd desktop
+  747  ls
+  748  ls
+  749  cd Module_3_Activities
+  750  ls
+  751  conda activate dev
+  752  jupyter lab
+  753  cd desktop
+  754  ls
+  755  cd Module_3_Activities
+  756  conda activate dev
+  757  jupyter lab
+  758  conda activate dev
+  759  conda uninstall jupyter
+  760  conda install jupyter
+  761  conda activate dev
+  762  cd desktop
+  763  ls
+  764  cd Module_3_Activities
+  765  jupyter lab
+  766  conda activate dev
+  767  jupyter lab
+  768  conda activate dev
+  769  conda list pandas
+  770  conda list jupyter lab
+  771  conda deactivate
+  772  conda remove --name dev --all
+  773  conda info --envs
+  774  conda update conda
+  775  conda update anaconda
+  776  conda create -n dev python=3.9 anaconda
+  777  conda activate dev
+  778  conda deactivate
+  779  conda info --envvs
+  780  conda info-envs
+  781  conda info -envs-
+  782  conda info --envs
+  783  conda activate dev
+  784  conda list pandas
+  785  conda list jupyterlab
+  786  conda list
+  787  cd desktop
+  788  ls
+  789  cd Module_3_Activities
+  790  jupyter lab
+  791  cd desktop
+  792  ls
+  793  cd Module_3_Activities
+  794  conda activate dev
+  795  jupyter lab
+  796  cd desktop
+  797  ls
+  798  cd Module_3_Activities
+  799  conda activate dev
+  800  jupyter lab
+  801  conda list anaconda
+  802  conda activate dev
+  803  conda list anaconda
+  804  conda update --all
+  805  conda update -mn myenv --all
+  806  conda list
+  807  conda update --all
+  808  conda activate dev
+  809  cd desktop
+  810  ls
+  811  cd 01_Importing_the_VIX
+  812  jupyter lab
+  813  conda activate dev
+  814  cd desktop
+  815  ls
+  816  cd 01_Importing_the_VIX
+  817  jupyter lab
+  818  conda activate dev
+  819  cd desktop
+  820  ls
+  821  cd Module_3_Activities
+  822  jupyter lab
+  823  conda activate dev
+  824  cd desktop
+  825  ls
+  826  cd Module_3_Activities
+  827  ls
+  828  cd 01_Importing_the_VIX
+  829  jupyter lab
+  830  cd desktop
+  831  cd desktop
+  832  ls
+  833  cd Module_3_Activities
+  834  ls
+  835  conda activate dev
+  836  jupyter lab
+  837  cd desktop
+  838  cd Module_3_Activities
+  839  ls
+  840  cd 01_Importing_the_VIX
+  841  conda activate dev
+  842  jupyter lab
+  843  cd desktop
+  844  ls
+  845  cd Module_3_Activities
+  846  ls
+  847  cd 01_Importing_the_VIX
+  848  conda activate dev
+  849  jupyter lab
+  850  python
+  851  cd desktop
+  852  ls
+  853  cd Module_3_Activities
+  854  ls
+  855  cd 01_Importing_the_VIX
+  856  conda activate dev
+  857  jupyter lab
+  858  cd desktop
+  859  ls
+  860  cd 01_Importing_the_VIX
+  861  conda activate dev
+  862  jupyter lab
+  863  cd desktop
+  864  ls
+  865  cd Module_3_Activities
+  866  ls
+  867  cd 01_Importing_the_VIX
+  868  conda activate dev
+  869  jupyter lab
+  870  cd desktop
+  871  ls
+  872  cd Module_3_Activities
+  873  ls
+  874  cd 09-Bitcoin_Collections
+  875  conda activate dev
+  876  jupyter lab
+  877  conda activate dev
+  878  pip -v
+  879  pip freeze
+  880  conda activate dev
+  881  pip install fire
+  882  git config --list
+  883  cd desktop
+  884  ls
+  885  cd Fintech-Workspace
+  886  ls
+  887  cd GitHub_Upload
+  888  git clone https://github.com/ThomasBrierton/loan_qualifier_app.git
+  889  ls
+  890  cd loan_qualifier_app
+  891  ls
+  892  code .
+  893  conda activate dev
+  894  git status
+  895  git add Starter_Code
+  896  git status
+  897  git add .DS_Store
+  898  git status
+  899  git commit -m "Uploaded starter files"
+  900  git status
+  901  git push
+  902  git status
+  903  git commit
+  904  git add Starter_Code/loan_qualifier_app/app.py
+  905  git status
+  906  git commit -m "Saving updates"
+  907  git push
+  908  python app.py
+  909  ls
+  910  cd Starter_Code
+  911  python app.py
+  912  ls
+  913  cd loan_qualifier_app
+  914  ls
+  915  python app.py
+  916  pip install questionary
+  917  python app.py
+  918  git status
+  919  cd desktop
+  920  cd fintech-workspace
+  921  ls
+  922  cd GitHub_Upload
+  923  git clone https://github.com/ThomasBrierton/Loan_Qualifier_App.git
+  924  ls
+  925  cd Loan_Qualifier_App
+  926  ls
+  927  conda activate dev
+  928  code .
+  929  pwd
+  930  git status
+  931  git add loan_qualifier_app/
+  932  git status
+  933  git commit -m "Uploaded files"
+  934  git push
+  935  ls
+  936  cd loan_qualifier_app
+  937  ls
+  938  python app.py
+  939  qualifying_loans.csv
+  940  cd desktop
+  941  cd fintech-workspace
+  942  ls
+  943  cd github_upload
+  944  ls
+  945  cd Loan_Qualifier_App
+  946  ls
+  947  git status
+  948  git commit -m "Saving updates"
+  949  cd desktop
+  950  cd fintech-workspace
+  951  ls
+  952  cd github_upload
+  953  ls
+  954  cd Loan_Qualifier_App
+  955  git status
+  956  git add loan_qualifier_app/app.py
+  957  git status
+  958  git commit -m "Saving updates"
+  959  git push
+  960  ls
+  961  cd loan_qualifier_app
+  962  ls
+  963  conda activate dev
+  964  python app.py
+  965  git status
+  966  git add qualifying_loans.csv
+  967  git status
+  968  git commit -m "Saving qualifying_loans.csv"
+  969  git push
+  970  git status
+  971  git add README.md
+  972  git status
+  973  git add .DS_Store
+  974  git status
+  975  git add ../.DS_Store
+  976  git status
+  977  git commit -m "Removed README template"
+  978  git push
+  979  rm.DS_Store
+  980  defaults write com.apple.desktopservices DSDontWriteNetworkStores true
+  981  git status
+  982  git add ../.DS_Store
+  983  git status
+  984  git commit -m "Deleted DS_Store"
+  985  git push
+  986  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+  987  .DS_Store
+  988  git status
+  989  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+  990  echo .DS_Store >> .gitignore
+  991  git status
+  992  $ git commit -am "remove .DS_Store files"
+  993  git commit -am "remove .DS_Store files"
+  994  git push
+  995  git status
+  996  git add .gitignore
+  997  git commit -m "Removed Ds_Store"
+  998  git push
+  999  echo .DS_Store >> ~/.gitignore_global\n
+ 1000  git config --global core.excludesfile ~/.gitignore_global
+ 1001  cd desktop
+ 1002  cd fintech-workspace
+ 1003  cd github_upload
+ 1004  git clone https://github.com/ThomasBrierton/loan_qualifier_app.git
+ 1005  ls
+ 1006  cd loan_qualifier_app
+ 1007  ls
+ 1008  code .
+ 1009  git status
+ 1010  git add loan_qualifier_app/
+ 1011  git status
+ 1012  git commit -m "Uploading initial files"
+ 1013  git push
+ 1014  git status
+ 1015  git add loan_qualifier_app/app.py
+ 1016  git commit -m "Saving updates"
+ 1017  git push
+ 1018  ls
+ 1019  cd loan_qualifier_app
+ 1020  ls
+ 1021  conda activate dev
+ 1022  python app.py
+ 1023  git status
+ 1024  git status
+ 1025  git add qualifying_loans.csv
+ 1026  git status
+ 1027  git commit -m "Saving CSV file"
+ 1028  git push
+ 1029  git status
+ 1030  git add app.py
+ 1031  git commit -m "Saving changes to the documentation in app.py"
+ 1032  git push
+ 1033  git status
+ 1034  git add ../README.md
+ 1035  git status
+ 1036  git commit -m "Updated README file"
+ 1037  git push
+ 1038  pwd
+ 1039  cd -
+ 1040  cd -
+ 1041  cd ..
+ 1042  cd ..
+ 1043  ls
+ 1044  cd loan_qualifier_app
